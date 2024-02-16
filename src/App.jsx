@@ -1,10 +1,12 @@
+import React from 'react';
 import  "./App.css";
-import BotsPage from "./components/BotsPage"
+import BotsPage from "./assets/components/BotsPage"
 
 function App() {
   return (
     <div className="App">
       <BotsPage />
+    
     </div>
   );
 }
